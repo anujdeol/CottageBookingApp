@@ -1,7 +1,4 @@
-# Welcome to MovieFlex!
-
-## Introduction
-MovieFlex is a sleek web application revolutionizing online movie management. Featuring **login/register functionality**, **secure authentication**, and **authorization systems** ensuring user data safety. Powered by **Handlebars, Bootstrap, Node.js, Express.js**, and **MongoDB**, MovieFlex offers a seamless user experience.
+# Welcome to Cottage Booking app!
 
 ## Features
 ### Server-side Backend (Anuj Deol)
